@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web developement,Android Developement,Machine Learning
 - 🌱 I’m currently learning Android Developement 
 - 💞️ I’m looking to collaborate on (nothing yet)
-- 📫 How to reach me (you don't)
+- 📫 How to reach me (https://www.linkedin.com/in/rahul-biswas-580083212)
 
 <!---
 Raul909/Raul909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
