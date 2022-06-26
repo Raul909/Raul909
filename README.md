@@ -3,24 +3,26 @@
 
 
 
-## 🚀 About Me
+# 🚀 About Me
 Pursuing B.Tech in IIEST,Shibpur.
 
 
-## 🧠 Learning
+# 🧠 Learning
 
 🙂 Web Developement , Python
 
 
 
 
-## 💬 Languages 
+# 💬 Languages 
  🗨 C/C++,Java,Javascript, HTML, CSS
 
 
-## 🛠 Skills
+# 🛠 Skills
 Git,Android Development(Using Java),Video Editing,Graphic Designing
-## 🔗 Links
+# 🔗 Links
 [![linkedin](https://img.icons8.com/doodle/344/linkedin-circled.png)](https://www.linkedin.com/in/rahul-biswas-580083212/)
 [![youtube](https://img.icons8.com/doodle/452/youtube-play--v2.png)](https://www.youtube.com/channel/UCjsOF9jvN-39lHfgEnIWEbw)
+
+https://github-readme-stats.vercel.app/api?username
 
