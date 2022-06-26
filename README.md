@@ -1,4 +1,9 @@
 ## Hi,I am Rahul !
+
+<div>
+ ![gitartwork](gitartwork.svg)
+  </div>
+  
 <div align="center">
   <a href="https://github.com/Raul909">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raul909&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,6 +31,5 @@
   <a href="https://www.linkedin.com/in/rahul-biswas-580083212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![snake gif dark](https://github.com/Raul909/Raul909/blob/output/github-contribution-grid-snake.gif)
-  ![gitartwork](gitartwork.svg)
  
 </div>
