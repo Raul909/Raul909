@@ -25,7 +25,7 @@
 <!--   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/rahul-biswas-580083212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![snake gif](https://github.com/Raul909/Raul909/blob/output/github-contribution-grid-snake.gif)
-
+  ![snake gif dark](https://github.com/Raul909/Raul909/blob/output/github-contribution-grid-snake.gif)
+  ![gitartwork](gitartwork.svg)
  
 </div>
