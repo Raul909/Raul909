@@ -24,5 +24,5 @@ Git,Android Development(Using Java),Video Editing,Graphic Designing
 [![linkedin](https://img.icons8.com/doodle/344/linkedin-circled.png)](https://www.linkedin.com/in/rahul-biswas-580083212/)
 [![youtube](https://img.icons8.com/doodle/452/youtube-play--v2.png)](https://www.youtube.com/channel/UCjsOF9jvN-39lHfgEnIWEbw)
 
-https://github-readme-stats.vercel.app/api?username
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username:Raul909 &theme=radical)
 
