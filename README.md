@@ -30,7 +30,7 @@
  
  
   ![gitartwork](gitartwork.svg)
-  ![snake gif dark](https://github.com/Raul909/Raul909/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif dark](https://github.com/Raul909/Raul909/blob/output/github-contribution-grid-snake.svg)
    
  
 </div>
