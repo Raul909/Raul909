@@ -1,8 +1,8 @@
 ## Hi,I am Rahul !
 
 <h2 align="left">About me</h2>
-- I'm a ETCE undergrad student at IIEST, Shibpur.
-- I’m currently learning Data Structures and Algorithms, Full-Stack Web Development and ML.
+Undergrad at IIEST, Shibpur.
+Currently learning Data Structures and Algorithms, Full-Stack Web Development and ML.
 <br>
 <p align="left">
   
@@ -28,7 +28,7 @@
  
 <div> 
   
-  
+  <h2 align="left">Connect with Me</h2>
   <a href="https://www.youtube.com/channel/UCjsOF9jvN-39lHfgEnIWEbw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rahul-biswas-580083212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
