@@ -1,4 +1,18 @@
 ## Hi,I am Rahul !
+
+<h2 align="left">About me <img src="https://media.giphy.com/media/Qp8JVw4n37No6spF3s/giphy.gif" width="50"></h2>
+
+
+- I'm a ETCE undergrad student at IIEST, Shibpur.
+- I’m currently learning Data Structures and Algorithms, Full-Stack Development and ML.
+- I’m looking to collaborate on Open-source Projects.
+- I'm a passionate reader and also like singing and sketching. (Profile avatar is by me :D)
+
+<br>
+
+<h2 align="left">Languages and tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+
+<p align="left">
   
 <div align="center">
   <a href="https://github.com/Raul909">
