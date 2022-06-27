@@ -1,17 +1,9 @@
 ## Hi,I am Rahul !
 
-<h2 align="left">About me <img src="https://media.giphy.com/media/Qp8JVw4n37No6spF3s/giphy.gif" width="50"></h2>
-
-
+<h2 align="left">About me</h2>
 - I'm a ETCE undergrad student at IIEST, Shibpur.
-- I’m currently learning Data Structures and Algorithms, Full-Stack Development and ML.
-- I’m looking to collaborate on Open-source Projects.
-- I'm a passionate reader and also like singing and sketching. (Profile avatar is by me :D)
-
+- I’m currently learning Data Structures and Algorithms, Full-Stack Web Development and ML.
 <br>
-
-<h2 align="left">Languages and tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
-
 <p align="left">
   
 <div align="center">
@@ -20,6 +12,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul909&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="centre"><br>
+  
+  <h2 align="left">Languages and tools</h2>
   <img align="center" alt="Raul-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Raul-androidstudio" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Raul-ps" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
@@ -33,7 +27,8 @@
   ##
  
 <div> 
- 
+  
+  
   <a href="https://www.youtube.com/channel/UCjsOF9jvN-39lHfgEnIWEbw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rahul-biswas-580083212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
