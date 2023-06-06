@@ -18,7 +18,7 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
   <img align="center" alt="Raul-Cplusplus" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Raul-Cplusplus" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
           
-  
+ <br><br> 
 </div>
   
  <h2 align="center">⚡ Github and Leetcode Stats ⚡</h2>
