@@ -38,18 +38,18 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampatra1&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul909&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
   <br>
   
-  <img align="right" width=45% src="https://leetcode-stats.vercel.app/api?username=Soham007&theme=Dark" />
-  <img align="left" width=45% src="https://leetcode.card.workers.dev/Soham007?theme=dark&font=source_code_pro_border=true&extension=null" />
+  <img align="right" width=45% src="https://leetcode-stats.vercel.app/api?username=Raul5756&theme=Dark" />
+  <img align="left" width=45% src="https://leetcode.card.workers.dev/Raul5756?theme=dark&font=source_code_pro_border=true&extension=null" />
   <br>
   <br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sohampatra1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>  
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raul909&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>  
   
   
   
