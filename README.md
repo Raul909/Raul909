@@ -16,7 +16,8 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
   <img align="center" alt="Raul-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Raul-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Raul-Cplusplus" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Raul-Cplusplus" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Raul-Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Raul-Anaconda" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" >
           
  <br><br> 
 </div>
@@ -26,7 +27,7 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
 <p align=center>
   <div align=center>
     <a href="https://github.com/raul909/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sohampatra1&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=raul909&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=raul909&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
