@@ -17,8 +17,8 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
   <img alt="Raul-Python" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Raul-Cplusplus" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img alt="Raul-Jupyter" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img alt="Raul-Anaconda" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" >
-  <img alt="Raul-VSCode" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"><hr>
+  <img alt="Raul-Anaconda" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" ><hr>
+  <img alt="Raul-VSCode" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img alt="Raul-Flask" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img alt="Raul-Git" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alt="Raul-Linux" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
