@@ -46,7 +46,7 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
   
 <!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raul909&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>   -->
   
-<!--   <br><br><br><hr> -->
+  <br><br><br><br><hr>
  
 <div align="centre"><br>
   
