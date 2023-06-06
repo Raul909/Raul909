@@ -48,7 +48,7 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
   
   <br><br><br>
   
-  <br><hr>
+  <br><br>
  
 <div align="centre"><br>
   
