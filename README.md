@@ -6,12 +6,12 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
 <br>
 <p align="left">
   
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/Raul909">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raul909&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul909&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div align="centre"><br> -->
+<div align="centre"><br>
   
   <h2 align="left">Languages and tools</h2>
 <!--   <img align="center" alt="Raul-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
