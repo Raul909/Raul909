@@ -5,12 +5,7 @@ Undergrad at IIEST, Shibpur.
 Currently learning Data Structures and Algorithms, Full-Stack Web Development and ML.
 <br>
 <p align="left">
-  
-<div align="center">
-  <a href="https://github.com/Raul909">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raul909&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul909&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 <div align="centre"><br>
   
   <h2 align="left">Languages and tools</h2>
@@ -38,7 +33,7 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul909&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul909&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
     </a>
   </div>
   <br>
@@ -51,13 +46,13 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
   
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raul909&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>  
   
-  
+  <br>
   
   ##
  
 <div> 
   
-  <h2 align="left">Connect with Me</h2>
+  <h2 align="centre">Connect with Me</h2>
   <a href="https://www.youtube.com/channel/UCjsOF9jvN-39lHfgEnIWEbw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rahul-biswas-580083212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
