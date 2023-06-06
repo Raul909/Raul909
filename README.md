@@ -8,7 +8,7 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
 
 <div align="centre"><br>
   
-  <h2 align="left">Languages and tools</h2>
+  <h2 align="center">Languages and tools</h2>
   <img align="center" alt="Raul-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Raul-androidstudio" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Raul-ps" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
