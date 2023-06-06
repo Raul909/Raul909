@@ -7,6 +7,7 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
 <p align="left">
 
 <div align="centre">  
+  <p style="margin-top: 20px;">
   <h2 align="left">Languages and tools</h2>
   <img align="center" alt="Raul-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Raul-androidstudio" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
@@ -23,7 +24,7 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
   <img style="margin: 10px;" alt="Raul-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img style="margin: 10px;" al"Raul-Numpy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img style="margin: 10px;" alt="Raul-TensorFlow" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-  <img style="margin: 10px;" alt="Raul-PyTorch" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">             
+  <img style="margin: 10px;" alt="Raul-PyTorch" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">       </p>      
  <br><br> 
 </div>
   
