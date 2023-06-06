@@ -75,7 +75,7 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
   <br><br>
   ![gitartwork](gitartwork.svg)
   
-  <br><br>
+  <br><br><hr>
   ![snake gif dark](https://github.com/Raul909/Raul909/blob/output/github-contribution-grid-snake.svg)
    
  
