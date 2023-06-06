@@ -25,8 +25,9 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
   <img style="margin: 10px;" al"Raul-Numpy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img style="margin: 10px;" alt="Raul-TensorFlow" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
   <img style="margin: 10px;" alt="Raul-PyTorch" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">       </p>      
- <br><br> 
 </div>
+
+ <br><br>
   
  <h2 align="center">⚡ Github and Leetcode Stats ⚡</h2>
 <br>
