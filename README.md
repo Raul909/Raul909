@@ -16,7 +16,7 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
   <img align="center" alt="Raul-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Raul-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Raul-Cplusplus" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> 
+  
 </div>
   
  <h2 align="center">⚡ Github and Leetcode Stats ⚡</h2>
@@ -47,10 +47,9 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raul909&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>  
   
   <br>
-  
-  ##
+  <br>
  
-<div> 
+<div align="centre"><br>
   
   <h2 align="centre">Connect with Me</h2>
   <a href="https://www.youtube.com/channel/UCjsOF9jvN-39lHfgEnIWEbw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
