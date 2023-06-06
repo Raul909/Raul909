@@ -7,8 +7,8 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
 <p align="left">
 
 <div align="centre">  
+  <h2>Languages and tools</h2>
   <p style="margin-top: 20px;">
-  <h2 align="left">Languages and tools</h2>
   <img align="center" alt="Raul-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Raul-androidstudio" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img style="margin: 10px;" alt="Raul-ps" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
