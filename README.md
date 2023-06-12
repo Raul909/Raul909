@@ -51,11 +51,11 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
   <br>
   
   <img align="right" width=45% src="https://leetcode-stats.vercel.app/api?username=Raul5756&theme=Dark" />
-  <img align="left" width=45% src="https://leetcode.card.workers.dev/Raul5756?theme=dark&font=source_code_pro_border=true&extension=null" />
+<!--   <img align="left" width=45% src="https://leetcode.card.workers.dev/Raul5756?theme=dark&font=source_code_pro_border=true&extension=null" /> -->
   <br>
   <br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raul909&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>  
+<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raul909&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>   -->
   
   <br><br><br>
   
