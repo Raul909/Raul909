@@ -51,7 +51,7 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
   <br>
   
 <!--  <img align="right" width=45% src="https://leetcode-stats.vercel.app/api?username=Raul5756&theme=Dark" /> -->
-  <img align="center" width=50% src="https://leetcode.card.workers.dev/Raul5756?theme=dark&font=source_code_pro_border=true&extension=null" />
+  <img align="center" width=330 src="https://leetcode.card.workers.dev/Raul5756?theme=dark&font=source_code_pro_border=true&extension=null" />
   <br>
   <br>
   
