@@ -37,7 +37,7 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
     <a href="https://github.com/raul909/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=raul909&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/raul909/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=raul909&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
@@ -50,8 +50,8 @@ Currently learning Data Structures and Algorithms, Full-Stack Web Development an
   <br>
   <br>
   
-  <img align="right" width=45% src="https://leetcode-stats.vercel.app/api?username=Raul5756&theme=Dark" />
-  <img align="left" width=45% src="https://leetcode.card.workers.dev/Raul5756?theme=dark&font=source_code_pro_border=true&extension=null" />
+<!--  <img align="right" width=45% src="https://leetcode-stats.vercel.app/api?username=Raul5756&theme=Dark" /> -->
+  <img align="left" width=100% src="https://leetcode.card.workers.dev/Raul5756?theme=dark&font=source_code_pro_border=true&extension=null" />
   <br>
   <br>
   
