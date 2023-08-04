@@ -1,8 +1,8 @@
-## Hi,I am Rahul !
+## Hi, I am Rahul!
 
 <h2 align="left">About me</h2>
 Undergrad at IIEST, Shibpur.
-Currently learning Data Structures and Algorithms, Full-Stack Web Development and ML.
+Currently learning Data Structures and Algorithms, Hugging Face.
 <br>
 <p align="left">
 
