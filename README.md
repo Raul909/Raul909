@@ -66,12 +66,12 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raul909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Rahul's GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raul909&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Rahul's Streak Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raul909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Rahul's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Raul909&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Rahul's Streak Stats"/>
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul909&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=c%23,powershell,ruby,objective-c,cuda" alt="Top Languages"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul909&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=c%23,powershell,ruby,objective-c,cuda" alt="Top Languages"/>
 </div>
 
 ---
@@ -104,7 +104,7 @@ me.say_hi()
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=raul909&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=Raul909&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -150,16 +150,22 @@ opportunities:
 
 ### 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=raul909&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Raul909&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
 ### 🐍 Contribution Graph
 
-![snake gif](https://github.com/raul909/raul909/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Raul909/Raul909/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-**⭐ From [raul909](https://github.com/raul909) | If you like my work, feel free to ⭐ star my repos!**
+### 🎨 Git Artwork
+
+![Git Artwork](./gitartwork.svg)
+
+---
+
+**⭐ From [Raul909](https://github.com/Raul909) | If you like my work, feel free to ⭐ star my repos!**
 
 </div>
