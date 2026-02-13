@@ -65,19 +65,15 @@ me.say_hi()
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raul909&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Raul909&theme=tokyonight" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raul909&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul909&layout=compact&theme=tokyonight" />
+</p>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Raul909&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul909&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
 
 
 ---
