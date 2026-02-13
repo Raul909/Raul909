@@ -66,13 +66,19 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raul909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Rahul's GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Raul909&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Rahul's Streak Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raul909&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Raul909&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul909&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=c%23,powershell,ruby,objective-c,cuda" alt="Top Languages"/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul909&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </div>
+
 
 ---
 
