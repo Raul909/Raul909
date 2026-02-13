@@ -73,12 +73,12 @@ me.say_hi()
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Raul909&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raul909&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics)
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://streak-stats.demolab.com?user=Raul909&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Raul909&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </td>
 </tr>
@@ -86,56 +86,63 @@ me.say_hi()
 
 ### 💻 Language Proficiency
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul909&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=600" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raul909&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-### 📅 Contribution Timeline
+### 📅 Contribution Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raul909&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raul909&theme=tokyo-night&hide_border=true&area=true)
 
 ### 🏆 Achievement Showcase
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Raul909&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Raul909&theme=tokyonight&no-frame=true&no-bg=false&column=4&row=2&margin-w=15&margin-h=15)
 
 ### 📊 Detailed Analytics
+
+<details>
+<summary>📈 Click to expand detailed stats</summary>
+
+<br>
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-**📝 Commit Metrics**
+**📝 Productive Time**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raul909&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raul909&theme=tokyonight&utcOffset=5.5)
 
 </td>
 <td width="50%" align="center">
 
-**🗂️ Repository Distribution**
+**🗂️ Repos per Language**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raul909&theme=tokyonight" alt="Repos per Language" />
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raul909&theme=tokyonight)
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-**📈 Commit Distribution**
+**💬 Most Commit Language**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raul909&theme=tokyonight" alt="Most Commit Language" />
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raul909&theme=tokyonight)
 
 </td>
 <td width="50%" align="center">
 
-**⚡ Performance Stats**
+**⚡ Stats Overview**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raul909&theme=tokyonight" alt="Stats" />
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raul909&theme=tokyonight)
 
 </td>
 </tr>
 </table>
 
-### 🎯 Profile Summary
+**🎯 Complete Profile Summary**
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raul909&theme=tokyonight" alt="Profile Details" />
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raul909&theme=tokyonight)
+
+</details>
 
 </div>
 
@@ -149,33 +156,22 @@ me.say_hi()
 
 <table>
 <tr>
-<td width="55%" align="center">
+<td width="60%" align="center">
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/Raul5756?theme=dark&font=source_code_pro&extension=null&width=500)](https://leetcode.com/Raul5756/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Raul5756?theme=dark&font=Source%20Code%20Pro&ext=heatmap)](https://leetcode.com/Raul5756/)
 
 </td>
-<td width="45%" align="center">
+<td width="40%" align="center">
 
-**📊 Key Metrics**
+**📊 Quick Stats**
 
-```yaml
-Total Problems: [Your Count]
-Easy: ✅ [Count]
-Medium: 🟡 [Count]
-Hard: 🔴 [Count]
-
-Contest Rating: ⭐ [Rating]
-Global Rank: 🏆 Top [X]%
-Streak: 🔥 [X] days
-```
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Raul5756&theme=dark)
 
 </td>
 </tr>
 </table>
 
-### 📈 Progress Visualization
-
-<img src="https://leetcode-badge.vercel.app/?username=Raul5756&style=for-the-badge" alt="LeetCode Badge" />
+**🔗 Profile:** [LeetCode/Raul5756](https://leetcode.com/Raul5756/)
 
 </div>
 
@@ -228,20 +224,19 @@ opportunities:
 
 ### 💭 Inspirational Quote
 
-> *"I am a cage, in search of a bird."*
-> — **Franz Kafka**
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 ### 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=Raul909&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Raul909&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/Raul909/Raul909/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Raul909/Raul909/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
