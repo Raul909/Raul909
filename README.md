@@ -66,20 +66,116 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raul909&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Raul909&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+### 📈 Overview Metrics
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Raul909&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://streak-stats.demolab.com?user=Raul909&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+### 💻 Language Proficiency
+
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul909&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=600" alt="Top Languages" />
+
+### 📅 Contribution Timeline
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raul909&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
+
+### 🏆 Achievement Showcase
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Raul909&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
+
+### 📊 Detailed Analytics
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+**📝 Commit Metrics**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raul909&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+
+</td>
+<td width="50%" align="center">
+
+**🗂️ Repository Distribution**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raul909&theme=tokyonight" alt="Repos per Language" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**📈 Commit Distribution**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raul909&theme=tokyonight" alt="Most Commit Language" />
+
+</td>
+<td width="50%" align="center">
+
+**⚡ Performance Stats**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raul909&theme=tokyonight" alt="Stats" />
+
+</td>
+</tr>
+</table>
+
+### 🎯 Profile Summary
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raul909&theme=tokyonight" alt="Profile Details" />
+
 </div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul909&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
 ---
 
-## 🧩 LeetCode Progress
+## 🧩 Competitive Programming
 
 <div align="center">
-  
-[![LeetCode Stats](https://leetcode.card.workers.dev/Raul5756?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/Raul5756/)
+
+### 💡 LeetCode Journey
+
+<table>
+<tr>
+<td width="55%" align="center">
+
+[![LeetCode Stats](https://leetcode.card.workers.dev/Raul5756?theme=dark&font=source_code_pro&extension=null&width=500)](https://leetcode.com/Raul5756/)
+
+</td>
+<td width="45%" align="center">
+
+**📊 Key Metrics**
+
+```yaml
+Total Problems: [Your Count]
+Easy: ✅ [Count]
+Medium: 🟡 [Count]
+Hard: 🔴 [Count]
+
+Contest Rating: ⭐ [Rating]
+Global Rank: 🏆 Top [X]%
+Streak: 🔥 [X] days
+```
+
+</td>
+</tr>
+</table>
+
+### 📈 Progress Visualization
+
+<img src="https://leetcode-badge.vercel.app/?username=Raul5756&style=for-the-badge" alt="LeetCode Badge" />
 
 </div>
 
@@ -94,16 +190,6 @@ me.say_hi()
 | Advanced DSA Patterns | ML Deployment Projects | Hugging Face Ecosystem |
 | Deep Learning | Backend APIs | Open Source Contributions |
 | System Design | Desktop GUI Apps | Cloud Technologies |
-
-</div>
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Raul909&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -153,15 +239,9 @@ opportunities:
 
 ---
 
-### 🐍 Contribution Graph
+### 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Raul909/Raul909/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🎨 Git Artwork
-
-![Git Artwork](./gitartwork.svg)
 
 ---
 
