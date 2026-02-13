@@ -214,7 +214,7 @@ Streak: 🔥 [X] days
 
 ```yaml
 opportunities:
-  - Internships (AI/ML, Backend Development)
+  - Freelancing (AI/ML, Backend Development)
   - Open Source Collaboration
   - Research Projects
   - Hackathons & Coding Competitions
