@@ -1,84 +1,160 @@
-## Hi, I am Rahul!
+<div align="center">
 
-<h2 align="left">About me</h2>
-Undergrad at IIEST, Shibpur.
-Currently learning Data Structures and Algorithms, Hugging Face.
-<br>
-<p align="left">
+# 👋 Hi, I'm Rahul Biswas
 
-<div align="centre">  
-  <h2>Languages and tools</h2>
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-  <img alt="Raul-Js" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Raul-androidstudio" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-  <img alt="Raul-ps" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img alt="Raul-HTML" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Raul-CSS" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Raul-Python" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Raul-Cplusplus" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img alt="Raul-Jupyter" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img alt="Raul-Anaconda" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" ><hr>
-  <img alt="Raul-VSCode" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img alt="Raul-Flask" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-  <img alt="Raul-Git" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="Raul-Linux" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img alt="Raul-Numpy" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img alt="Raul-TensorFlow" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-  <img alt="Raul-PyTorch" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-  </div>
+### Undergraduate @ IIEST Shibpur | DSA Enthusiast | AI/ML Explorer | Python Developer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Structures+%26+Algorithms;Machine+Learning+%26+AI;Backend+Development;Open+Source+Contributor)](https://git.io/typing-svg)
+
+---
+
+### 🚀 About Me
+
+```python
+class RahulBiswas:
+    def __init__(self):
+        self.username = "raul909"
+        self.education = "IIEST Shibpur"
+        self.interests = ["DSA", "AI/ML", "Backend Dev"]
+        self.current_focus = ["Hugging Face", "Advanced DSA", "ML Deployment"]
+        self.os = "Linux"
+        self.status = "Open to internships & collaborations"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
+
+me = RahulBiswas()
+me.say_hi()
+```
+
 </div>
 
- <br><br>
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=raul909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Rahul's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raul909&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Rahul's Streak Stats"/>
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul909&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=c%23,powershell,ruby,objective-c,cuda" alt="Top Languages"/>
+</div>
+
+---
+
+## 🧩 LeetCode Progress
+
+<div align="center">
   
- <h2 align="center">⚡ Github and Leetcode Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/raul909/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=raul909&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/raul909/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=raul909&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/raul909/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul909&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
-    </a>
-  </div>
-  <br>
-  <br>
-  
-<!--  <img align="right" width=45% src="https://leetcode-stats.vercel.app/api?username=Raul5756&theme=Dark" /> -->
-  <img align="center" width=500 src="https://leetcode.card.workers.dev/Raul5756?theme=dark&font=source_code_pro_border=true&extension=null" />
-  <br>
-  <br>
-  
-<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raul909&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>   -->
-  
-  <br><br><br>
-  
-  <br><br>
- 
-<div align="centre"><br>
-  
-  <h2 align="centre">Connect with Me</h2>
-  <a href="https://www.youtube.com/channel/UCjsOF9jvN-39lHfgEnIWEbw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rahul-biswas-580083212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <br><hr>
-<!--   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-<!--  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-<!--  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-<!--   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
-  
- 
-  <br><br>
-  ![gitartwork](gitartwork.svg)
-  
-  <br><br><hr>
-  ![snake gif dark](https://github.com/Raul909/Raul909/blob/output/github-contribution-grid-snake.svg)
-   
- 
+[![LeetCode Stats](https://leetcode.card.workers.dev/Raul5756?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/Raul5756/)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| 🎓 Learning | 🔨 Building | 🌱 Exploring |
+|:-----------:|:-----------:|:------------:|
+| Advanced DSA Patterns | ML Deployment Projects | Hugging Face Ecosystem |
+| Deep Learning | Backend APIs | Open Source Contributions |
+| System Design | Desktop GUI Apps | Cloud Technologies |
+
+</div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=raul909&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-biswas-580083212/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjsOF9jvN-39lHfgEnIWEbw)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Raul5756/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raul909)
+
+</div>
+
+---
+
+## 💼 Open To
+
+<div align="center">
+
+```yaml
+opportunities:
+  - Internships (AI/ML, Backend Development)
+  - Open Source Collaboration
+  - Research Projects
+  - Hackathons & Coding Competitions
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=raul909&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+---
+
+### 🐍 Contribution Graph
+
+![snake gif](https://github.com/raul909/raul909/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+**⭐ From [raul909](https://github.com/raul909) | If you like my work, feel free to ⭐ star my repos!**
+
 </div>
