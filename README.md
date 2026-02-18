@@ -132,7 +132,7 @@ me.say_hi()
 <tr>
 <td width="55%" align="center">
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/Raul5756?theme=dark&font=source_code_pro&extension=null&width=500)](https://leetcode.com/Raul5756/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Raul5756?theme=dark&font=source_code_pro&extension=null&width=500)](https://leetcode.com/Raul5756/)
 
 </td>
 <td width="45%" align="center">
