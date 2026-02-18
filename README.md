@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rahul Biswas
 
-### Undergraduate @ IIEST Shibpur | DSA Enthusiast | AI/ML Explorer | Python Developer
+### Graduated @ IIEST Shibpur | DSA Enthusiast | AI/ML Explorer | Python Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Structures+%26+Algorithms;Machine+Learning+%26+AI;Backend+Development;Open+Source+Contributor)](https://git.io/typing-svg)
 
@@ -19,6 +19,7 @@ class RahulBiswas:
         self.current_focus = ["Hugging Face", "Advanced DSA", "ML Deployment"]
         self.os = "Linux"
         self.status = "Open to internships & collaborations"
+        self.portfolio = "https://raul909portfolio.netlify.app/"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
@@ -47,6 +48,7 @@ me.say_hi()
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PySide](https://img.shields.io/badge/PySide-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -203,6 +205,7 @@ Streak: 🔥 [X] days
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjsOF9jvN-39lHfgEnIWEbw)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Raul5756/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raul909)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://raul909portfolio.netlify.app/)
 
 </div>
 
@@ -241,7 +244,7 @@ opportunities:
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/Raul909/Raul909/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Raul909/Raul909/output/github-contribution-grid-snake.svg)
 
 ---
 
