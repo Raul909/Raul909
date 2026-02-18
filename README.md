@@ -71,32 +71,11 @@ me.say_hi()
 
 ### 📈 Overview Metrics
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Raul909&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
-
-</td>
-<td width="50%" align="center">
-
 <img src="https://streak-stats.demolab.com?user=Raul909&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
-
-### 💻 Language Proficiency
-
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul909&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=600" alt="Top Languages" />
 
 ### 📅 Contribution Timeline
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raul909&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
-
-### 🏆 Achievement Showcase
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Raul909&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
 
 ### 📊 Detailed Analytics
 
@@ -177,7 +156,7 @@ Streak: 🔥 [X] days
 
 ### 📈 Progress Visualization
 
-<img src="https://leetcode-badge.vercel.app/?username=Raul5756&style=for-the-badge" alt="LeetCode Badge" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRaul5756&logo=leetcode&logoColor=yellow" alt="LeetCode Badge" />
 
 </div>
 
