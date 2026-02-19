@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👋 Hi, I'm Rahul Biswas
-
 ### Graduated @ IIEST Shibpur | DSA Enthusiast | AI/ML Explorer | Python Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Structures+%26+Algorithms;Machine+Learning+%26+AI;Backend+Development;Open+Source+Contributor)](https://git.io/typing-svg)
@@ -37,6 +36,7 @@ me.say_hi()
 <div align="center">
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -45,6 +45,7 @@ me.say_hi()
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -56,6 +57,7 @@ me.say_hi()
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -74,14 +76,10 @@ me.say_hi()
 <table>
 <tr>
 <td width="50%" align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Raul909&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
-
 </td>
 <td width="50%" align="center">
-
 <img src="https://streak-stats.demolab.com?user=Raul909&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak" />
-
 </td>
 </tr>
 </table>
@@ -107,14 +105,12 @@ me.say_hi()
 **📝 Commit Metrics**
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raul909&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-
 </td>
 <td width="50%" align="center">
 
 **🗂️ Repository Distribution**
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raul909&theme=tokyonight" alt="Repos per Language" />
-
 </td>
 </tr>
 <tr>
@@ -123,14 +119,12 @@ me.say_hi()
 **📈 Commit Distribution**
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raul909&theme=tokyonight" alt="Most Commit Language" />
-
 </td>
 <td width="50%" align="center">
 
 **⚡ Performance Stats**
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raul909&theme=tokyonight" alt="Stats" />
-
 </td>
 </tr>
 </table>
@@ -154,7 +148,6 @@ me.say_hi()
 <td width="55%" align="center">
 
 [![LeetCode Stats](https://leetcode.card.workers.dev/Raul5756?theme=dark&font=source_code_pro&extension=null&width=500)](https://leetcode.com/Raul5756/)
-
 </td>
 <td width="45%" align="center">
 
@@ -165,7 +158,6 @@ Total Problems: [Your Count]
 Easy: ✅ [Count]
 Medium: 🟡 [Count]
 Hard: 🔴 [Count]
-
 Contest Rating: ⭐ [Rating]
 Global Rank: 🏆 Top [X]%
 Streak: 🔥 [X] days
@@ -177,7 +169,14 @@ Streak: 🔥 [X] days
 
 ### 📈 Progress Visualization
 
-<img src="https://leetcode-badge.vercel.app/?username=Raul5756&style=for-the-badge" alt="LeetCode Badge" />
+<p align="center">
+  <a href="https://leetcode.com/Raul5756/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRaul5756&logo=leetcode&logoColor=yellow" alt="LeetCode Solved" />
+  </a>
+  <a href="https://leetcode.com/Raul5756/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRaul5756&logo=leetcode&logoColor=yellow" alt="LeetCode Ranking" />
+  </a>
+</p>
 
 </div>
 
@@ -245,6 +244,12 @@ opportunities:
 ### 🐍 Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/Raul909/Raul909/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🎨 Git Artwork
+
+<img src="./gitartwork.svg" alt="Git Artwork" width="100%"/>
 
 ---
 
