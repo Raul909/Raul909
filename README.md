@@ -76,7 +76,7 @@ me.say_hi()
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Raul909&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Raul909&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
 </td>
 <td width="50%" align="center">
 <img src="https://streak-stats.demolab.com?user=Raul909&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak" />
@@ -86,7 +86,7 @@ me.say_hi()
 
 ### 💻 Language Proficiency
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raul909&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=600" alt="Top Languages" />
+<img width="65%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Raul909&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=600" alt="Top Languages" />
 
 ### 📅 Contribution Timeline
 
@@ -94,7 +94,7 @@ me.say_hi()
 
 ### 🏆 Achievement Showcase
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Raul909&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
+<img width="100%" src="https://github-profile-trophy-nu.vercel.app/?username=Raul909&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
 
 ### 📊 Detailed Analytics
 
