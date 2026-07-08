@@ -18,7 +18,7 @@ class RahulBiswas:
         self.current_focus = ["Hugging Face", "Advanced DSA", "ML Deployment"]
         self.os = "Linux"
         self.status = "Open to internships & collaborations"
-        self.portfolio = "https://raul909portfolio.netlify.app/"
+        self.portfolio = "https://rahul-biswas-portfolio.pages.dev/"
     
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
